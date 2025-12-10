@@ -1,0 +1,18 @@
+[
+  { "id": 1, "nombre": "iPhone 11", "precio": 499.999, "img": "img/IPhone_11.webp" },
+  { "id": 2, "nombre": "iPhone 11 Pro Max", "precio": 615.005, "img": "img/11prOmAx.webp" },
+  { "id": 3, "nombre": "iPhone 12", "precio": 627.716, "img": "img/IPhone_12.webp" },
+  { "id": 4, "nombre": "iPhone 12 Pro Max", "precio": 710.456, "img": "img/IPhone_12_Pro_Max.webp" },
+  { "id": 5, "nombre": "iPhone 13", "precio": 671.749, "img": "img/IPhone_13.webp" },
+  { "id": 6, "nombre": "iPhone 13 Pro Max", "precio": 889.088, "img": "img/Iphone13promax.webp" },
+  { "id": 7, "nombre": "iPhone 14", "precio": 685.269, "img": "img/IPhone_14.webp" },
+  { "id": 8, "nombre": "iPhone 14 Pro", "precio": 906.905, "img": "img/IPhone_14_Pro.webp" },
+  { "id": 9, "nombre": "iPhone 14 Pro Max", "precio": 895.447, "img": "img/IPhone_14_Pro_Max.webp" },
+  { "id": 10, "nombre": "iPhone 15", "precio": 1.387427, "img": "img/IPhone_15.webp" },
+  { "id": 11, "nombre": "iPhone 15 Pro", "precio": 1.551529, "img": "img/iPhone_15_Pro.webp" },
+  { "id": 12, "nombre": "iPhone 16", "precio": 1.484001, "img": "img/IPhone_16.webp" },
+  { "id": 13, "nombre": "iPhone 16 Pro", "precio": 1.538999, "img": "img/IPhone_16_Pro.webp" },
+  { "id": 14, "nombre": "iPhone 17", "precio": 2.850010, "img": "img/IPhone17.webp" },
+  { "id": 15, "nombre": "iPhone 17 Pro", "precio": 3.036053, "img": "img/IPhone_17_Pro.webp" },
+  { "id": 16, "nombre": "iPhone 17 Pro Max", "precio": 3.299085, "img": "img/IPhone_17_Pro_Max.webp" }
+]
